@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://majortr.github.io/notegory-support/sitemap.xml
